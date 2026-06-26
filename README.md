@@ -18,13 +18,13 @@ I'm a Computer Science student passionate about technology, programming, and pro
 
 ---
 
-## 🎯 Current Goals
+## 💡 Skills
 
-- Master Data Structures & Algorithms
-- Build impactful software projects
-- Contribute to open source
-- Explore AI & emerging technologies
-- Continuously improve as a developer
+- Video Editing
+- Python
+- HTML
+- JavaScript (Basics)
+- Git & GitHub
 
 ---
 
@@ -33,6 +33,7 @@ I'm a Computer Science student passionate about technology, programming, and pro
 - GitHub: https://github.com/Yash-Raj-53526
 - LinkedIn: https://www.linkedin.com/in/yash-raj-pandey-668a9b410/
 - Email: yashraj53526@gmail.com
+- Instagram: https://www.instagram.com/deathsandslinge/
 
 ---
 
